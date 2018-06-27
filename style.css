@@ -154,6 +154,7 @@ padding: 10px;
 	ul.navbar-nav {flex-direction: column;}
         .bg {background-attachment: scroll;}
 	.bg p {font-size: 1rem;}
+	.one .ptext {top: 20%;}
 	.ptext .border {padding:5px; font-size: .8rem}
 	.navbar img {width: 150px;}
 }
