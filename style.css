@@ -155,5 +155,5 @@ padding: 10px;
         background-attachment: scroll;
     }
 	.bg p {font-size: 1rem;}
-	.ptext .border {padding:5px;}
+	.ptext .border {padding:5px; font-size: .8rem}
 }
