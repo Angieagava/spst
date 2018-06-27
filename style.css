@@ -151,9 +151,8 @@ padding: 10px;
 
 
 @media(max-width:568px) {
-    .bg {
-        background-attachment: scroll;
-    }
+        .bg {background-attachment: scroll;}
 	.bg p {font-size: 1rem;}
 	.ptext .border {padding:5px; font-size: .8rem}
+	.navbar img {width: 150px;}
 }
