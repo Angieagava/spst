@@ -99,6 +99,7 @@ h2{
 	max-width: 100%;
 	padding: 0 2%;
 }
+.user_opinion img {max-width: 100%; border-radius: 50%; width: 100px; height: 100px;}
 .s_app { 
 	background: url('images/mobile.png'); 
 	background-position: 18% 100%;
