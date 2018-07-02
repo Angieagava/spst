@@ -54,7 +54,7 @@ h2{
 }
 
 .three{
-    background-image: url(https://images.pexels.com/photos/993877/pexels-photo-993877.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260
+    background-image: linear-gradient(to right, #9cecfb, #65c7f7, #0052d4),url(https://images.pexels.com/photos/993877/pexels-photo-993877.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260
 );
      min-height: 500px;
 }
