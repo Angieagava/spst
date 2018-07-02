@@ -100,8 +100,11 @@ h2{
 .thumbnail { width: 100px; 
 	height: 100px; 
 	background-size: cover; 
-	background-image: url('https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&h=350');}
-.img-thumbnail {max-width: 100%; border-radius: 50%;}
+	background-image: url('https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&h=350');
+	background-position: center center;
+    	border-radius: 50%;
+}
+
 .s_app { 
 	background: url('images/mobile.png'); 
 	background-position: 18% 100%;
