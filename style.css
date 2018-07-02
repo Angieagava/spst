@@ -16,6 +16,7 @@ html, body{
 ul.navbar-nav {
 	flex-direction: inherit;
 }
+iframe {margin: 0 auto;}
 li {
 	margin: 0 auto;
 	}
