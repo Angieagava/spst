@@ -97,7 +97,10 @@ h2{
 	max-width: 100%;
 	padding: 0 2%;
 }
-.thumbnail { width: 100px; height: 100px; overflow: hidden;}
+.thumbnail { width: 100px; 
+	height: 100px; 
+	background-size: cover; 
+	background-image: url('https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&h=350');}
 .img-thumbnail {max-width: 100%; border-radius: 50%;}
 .s_app { 
 	background: url('images/mobile.png'); 
