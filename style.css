@@ -177,4 +177,8 @@ padding: 10px;
 	.one .ptext {top: 20%;}
 	.ptext .border {padding:5px; font-size: .8rem}
 	.navbar img {width: 150px;}
+	.thumbnail_1 { padding: 5%;}
+	.section-light {padding: 5%;}
+	iframe {width: 100%;height: auto;}
+	.user_photo .thumbnail { width: 50px; height: 50px; margin: 50% auto;}
 }
